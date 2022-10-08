@@ -1,10 +1,12 @@
 import styled from 'styled-components'
 import icon from '../assets/GitHub-Mark-Light-64px.png'
+import logo from "../assets/building-icon.png";
 
 const Header = () => {
   return (
     <HeaderContainer>
       <HeaderWrapper>
+        <Logo src={logo} alt="logo" />
         <h1>CV Builder</h1>
         <p>Build your CV in minutes</p>
         <a href="https://github.com/JayRichh" target="_blank" rel="noreferrer">
@@ -61,6 +63,12 @@ const HeaderWrapper = styled.div`
       scale: 1.2;
     }
   }
+`
+
+const Logo = styled.img`
+  width: 2.5rem;
+  margin: auto 0;
+  padding: 0 1rem 0 0.5rem;
 `
 
 export default Header
