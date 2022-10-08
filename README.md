@@ -2,8 +2,6 @@
 
 ## Create a CV Builder Application with React.js
 
-[Check out a live version here](https://jayrichh.github.io/cv-project/)
-
 ## Overview
 
 ### Requirements:
