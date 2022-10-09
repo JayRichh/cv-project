@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/cv-project/static/css/main.46514c90.css",
+    "main.js": "/cv-project/static/js/main.d602308c.js",
+    "static/media/building-icon.png": "/cv-project/static/media/building-icon.afa9bf789fad814a2b47.png",
+    "index.html": "/cv-project/index.html",
+    "main.46514c90.css.map": "/cv-project/static/css/main.46514c90.css.map",
+    "main.d602308c.js.map": "/cv-project/static/js/main.d602308c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.46514c90.css",
+    "static/js/main.d602308c.js"
+  ]
+}
