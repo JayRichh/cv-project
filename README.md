@@ -31,5 +31,7 @@
   * React
   * React Icons
   * Styled Components Library
+  * uniqid
+  * React-to-print
  
  Learning more about concepts of components, state, props, css with React
