@@ -12,7 +12,7 @@
 ### Requirements:
 
   * Create and impliment various components to construct the app
-  * Buttons to handle data manipulation
+  * Break down the components to various sections on the CV, provide live view of editing progress
   
 ## Scope Creep:
 
